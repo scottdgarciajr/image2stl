@@ -1,4 +1,5 @@
 # Image to STL Converter
+<img width="938" height="795" alt="image" src="https://github.com/user-attachments/assets/b258899e-9faf-420d-88e9-1a2255f391ba" />
 
 A local web app for turning images into printable STL models. It includes standard height-map modes plus a product-focused mode for extracting a subject, smoothing its outline, optionally removing the image background, editing the mask with an eraser, and exporting a closed STL.
 
